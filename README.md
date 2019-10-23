@@ -1,13 +1,23 @@
 # lab_manager-front-end
 
-1 - Instale o Node.js em sua máquina
+1 - Instale o Node.js em sua máquina;
 
-2 - Instale o gerenciador de pacotes: Yarn
 
-2 -  Após instalado, abra seu prompt de comando, mude para o diretório do projeto
+2 - Instale o gerenciador de pacotes: Yarn;
+
+
+3 - Clone ou baixe esse repositório;
+
+
+4 -  Abra seu prompt de comando, mude para o diretório do projeto
               
               cd labmanager
               
-3 - No diretório, dê o seguinte comando de execução :
+              
+5 - No diretório, dê o seguinte comando de execução, para a instalação de dependências :
         
-              npm/yarn start
+              yarn install
+
+6 - Após a instalação das dependências, execute com:
+
+              yarn start
