@@ -21,3 +21,6 @@
 6 - Após a instalação das dependências, execute com:
 
               yarn start
+
+
+PS: Ainda não se encontra finalizado.
